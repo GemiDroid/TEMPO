@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TEMPO</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="search">Enter your search</string>
+    <string name="no_data">No data found</string>
+    <string name="no_internet_msg">No Internet Found</string>
+</resources>
